@@ -205,11 +205,6 @@ h1, h2 {
     transform: scale(0.96);
 }
 
-.play-btn.tocando {
-    background-color: #ff6b6b;
-    box-shadow: 0 8px 20px rgba(255, 107, 107, 0.5);
-}
-
 footer {
     background-color: rgba(0, 0, 0, 0.6);
     text-align: center;
@@ -236,3 +231,4 @@ footer {
         padding: 1rem;
     }
 }
+body { background: #e6f7ff; }
